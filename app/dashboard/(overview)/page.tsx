@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   title: 'Dashboard',
 };
  
-export default async function Page() {
+export default async function Dashboard() {
   // const revenue = await fetchRevenue() 
   // const latestInvoices = await fetchLatestInvoices();
 
